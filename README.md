@@ -1,2 +1,2 @@
-# InShare - easy file sharing
+# EasyShare - easy file sharing
 
